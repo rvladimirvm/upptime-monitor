@@ -1,22 +1,20 @@
 [
   {
-    "name": "My Blog",
+    "name": "rvladimir Web Site",
     "url": "https://www.rvladimir.com/",
     "icon": "https://favicons.githubusercontent.com/www.rvladimir.com",
-    "slug": "my-blog",
+    "slug": "rvladimir-web-site",
     "status": "up",
-    "uptime": "99.45%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "99.45%",
-    "time": 269,
-    "timeDay": 213,
-    "timeWeek": 269,
-    "timeMonth": 269,
-    "timeYear": 269,
-    "dailyMinutesDown": {
-      "2022-09-15": 41
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 266,
+    "timeDay": 266,
+    "timeWeek": 266,
+    "timeMonth": 266,
+    "timeYear": 266,
+    "dailyMinutesDown": {}
   }
 ]
