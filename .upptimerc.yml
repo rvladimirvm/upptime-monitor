@@ -3,7 +3,7 @@ owner: rvladimirvm # Your GitHub organization or username, where this repository
 repo: upptime-monitor # The name of this repository
 
 sites:
-  - name: My Blog
+  - name: rvladimir Web Site
     url: https://www.rvladimir.com/
 
 status-website:
